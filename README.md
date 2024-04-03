@@ -44,5 +44,5 @@ Consider using a confusion matrix to analyze classification results.
 
 Visualization and Interpretation:
 
-    Visualize the sentiment analysis results using charts or graphs.
-    Interpret the findings to derive meaningful insights into public sentiment.
+Visualize the sentiment analysis results using charts or graphs.
+Interpret the findings to derive meaningful insights into public sentiment.
